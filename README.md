@@ -1,5 +1,5 @@
 # xoGames
-เกมส์ xo 3*3 (PHP)
+เกมส์ xo 3*3 
 
 วิธีการติดโปรแกรม
 1. รัน sql จากไฟล์ xogames_db.sql บน https:{{domain}}/phpmyadmin เพิ่อสร้าง Data Base
